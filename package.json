@@ -1,0 +1,17 @@
+{
+    "name": "armore",
+    "version": "1.0.0",
+    "description": "AR marked beer descriptions",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Chris Milliano <millianoc@gmail.com>",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+        "express": "^4.16.2",
+        "path": "^0.12.7"
+    }
+}
